@@ -1,4 +1,5 @@
 /*
+Changes to this one.
 DONE have a box on teh screen
 DONE when box is clicked it disappears
 DONE when box is clicked, it reappears after 3 seconds (research how)
